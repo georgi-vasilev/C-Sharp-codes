@@ -1,0 +1,10 @@
+D:\Vasilev\Workspace\friday\friday\obj\Debug\friday.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\friday\friday\obj\Debug\friday.Form1.resources
+D:\Vasilev\Workspace\friday\friday\obj\Debug\friday.Properties.Resources.resources
+D:\Vasilev\Workspace\friday\friday\obj\Debug\friday.csproj.GenerateResource.cache
+D:\Vasilev\Workspace\friday\friday\obj\Debug\friday.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\friday\friday\bin\Debug\friday.exe.config
+D:\Vasilev\Workspace\friday\friday\bin\Debug\friday.exe
+D:\Vasilev\Workspace\friday\friday\bin\Debug\friday.pdb
+D:\Vasilev\Workspace\friday\friday\obj\Debug\friday.exe
+D:\Vasilev\Workspace\friday\friday\obj\Debug\friday.pdb
