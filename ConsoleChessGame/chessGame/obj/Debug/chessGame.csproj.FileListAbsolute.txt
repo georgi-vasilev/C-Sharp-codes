@@ -1,0 +1,7 @@
+D:\Vasilev\C++ Workspace\chessGame\chessGame\bin\Debug\chessGame.exe.config
+D:\Vasilev\C++ Workspace\chessGame\chessGame\bin\Debug\chessGame.exe
+D:\Vasilev\C++ Workspace\chessGame\chessGame\bin\Debug\chessGame.pdb
+D:\Vasilev\C++ Workspace\chessGame\chessGame\obj\Debug\chessGame.csprojResolveAssemblyReference.cache
+D:\Vasilev\C++ Workspace\chessGame\chessGame\obj\Debug\chessGame.csproj.CoreCompileInputs.cache
+D:\Vasilev\C++ Workspace\chessGame\chessGame\obj\Debug\chessGame.exe
+D:\Vasilev\C++ Workspace\chessGame\chessGame\obj\Debug\chessGame.pdb
