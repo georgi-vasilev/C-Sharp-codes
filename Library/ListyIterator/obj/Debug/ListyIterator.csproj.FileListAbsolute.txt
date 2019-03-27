@@ -1,0 +1,7 @@
+D:\Vasilev\Workspace\library\ListyIterator\bin\Debug\ListyIterator.exe.config
+D:\Vasilev\Workspace\library\ListyIterator\bin\Debug\ListyIterator.exe
+D:\Vasilev\Workspace\library\ListyIterator\bin\Debug\ListyIterator.pdb
+D:\Vasilev\Workspace\library\ListyIterator\obj\Debug\ListyIterator.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\library\ListyIterator\obj\Debug\ListyIterator.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\library\ListyIterator\obj\Debug\ListyIterator.exe
+D:\Vasilev\Workspace\library\ListyIterator\obj\Debug\ListyIterator.pdb

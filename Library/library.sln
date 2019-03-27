@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library", "library\library.csproj", "{FC5836E8-B111-4DA8-8F7E-EF076645E381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListyIterator", "ListyIterator\ListyIterator.csproj", "{D2CA4EC4-97E2-496F-9940-FF6EDA8D32F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5836E8-B111-4DA8-8F7E-EF076645E381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5836E8-B111-4DA8-8F7E-EF076645E381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5836E8-B111-4DA8-8F7E-EF076645E381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5836E8-B111-4DA8-8F7E-EF076645E381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CA4EC4-97E2-496F-9940-FF6EDA8D32F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CA4EC4-97E2-496F-9940-FF6EDA8D32F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CA4EC4-97E2-496F-9940-FF6EDA8D32F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CA4EC4-97E2-496F-9940-FF6EDA8D32F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E1763D-1AD5-4A31-8C4C-BA679D628E98}
+	EndGlobalSection
+EndGlobal

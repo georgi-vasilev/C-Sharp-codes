@@ -1,0 +1,7 @@
+D:\Vasilev\Workspace\library\library\bin\Debug\library.exe.config
+D:\Vasilev\Workspace\library\library\bin\Debug\library.exe
+D:\Vasilev\Workspace\library\library\bin\Debug\library.pdb
+D:\Vasilev\Workspace\library\library\obj\Debug\library.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\library\library\obj\Debug\library.exe
+D:\Vasilev\Workspace\library\library\obj\Debug\library.pdb
