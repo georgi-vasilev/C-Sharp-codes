@@ -1,0 +1,13 @@
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\bin\Debug\netcoreapp3.0\PrimAlgoDemo.exe
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\obj\Debug\netcoreapp3.0\PrimAlgoDemo.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\obj\Debug\netcoreapp3.0\PrimAlgoDemo.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\obj\Debug\netcoreapp3.0\PrimAlgoDemo.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\bin\Debug\netcoreapp3.0\PrimAlgoDemo.deps.json
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\bin\Debug\netcoreapp3.0\PrimAlgoDemo.runtimeconfig.json
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\bin\Debug\netcoreapp3.0\PrimAlgoDemo.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\bin\Debug\netcoreapp3.0\PrimAlgoDemo.dll
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\bin\Debug\netcoreapp3.0\PrimAlgoDemo.pdb
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\bin\Debug\netcoreapp3.0\PowerCollections.dll
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\obj\Debug\netcoreapp3.0\PrimAlgoDemo.csproj.CopyComplete
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\obj\Debug\netcoreapp3.0\PrimAlgoDemo.dll
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\PrimAlgoDemo\obj\Debug\netcoreapp3.0\PrimAlgoDemo.pdb

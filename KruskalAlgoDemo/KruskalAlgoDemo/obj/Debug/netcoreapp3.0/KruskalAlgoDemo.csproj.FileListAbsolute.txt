@@ -1,0 +1,11 @@
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\bin\Debug\netcoreapp3.0\KruskalAlgoDemo.exe
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\bin\Debug\netcoreapp3.0\KruskalAlgoDemo.deps.json
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\bin\Debug\netcoreapp3.0\KruskalAlgoDemo.runtimeconfig.json
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\bin\Debug\netcoreapp3.0\KruskalAlgoDemo.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\bin\Debug\netcoreapp3.0\KruskalAlgoDemo.dll
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\bin\Debug\netcoreapp3.0\KruskalAlgoDemo.pdb
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\obj\Debug\netcoreapp3.0\KruskalAlgoDemo.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\obj\Debug\netcoreapp3.0\KruskalAlgoDemo.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\obj\Debug\netcoreapp3.0\KruskalAlgoDemo.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\obj\Debug\netcoreapp3.0\KruskalAlgoDemo.dll
+D:\Vasilev\Workspace\C#\KruskalAlgoDemo\KruskalAlgoDemo\obj\Debug\netcoreapp3.0\KruskalAlgoDemo.pdb
