@@ -1,11 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using MiniServer.Common;
 
 namespace MiniServer.Exceptions
 {
-    class BadRequestException : Exception
+    public class BadRequestException : Exception
     { 
+        public BadRequestException(string message) : base(message)
+        {
 
+        }
+        public BadRequestException(): this(GlobalConstans.DefaultBadRequestMessage)
+        {
+
+        }
     }
 }

@@ -1,11 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using MiniServer.Common;
 
 namespace MiniServer.Exceptions
 {
-    class InternalServerErrorException : Exception
+    public class InternalServerErrorException : Exception
     {
+        public InternalServerErrorException(string message) : base(message)
+        {
 
+        }
+        public InternalServerErrorException() : this(GlobalConstans.DefaultInternalServerErrorException)
+        {
+
+        }
     }
 }

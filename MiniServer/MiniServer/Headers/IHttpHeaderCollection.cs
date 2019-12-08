@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MiniServer.Headers
+﻿namespace MiniServer.Headers
 {
     public interface IHttpHeaderCollection
     {

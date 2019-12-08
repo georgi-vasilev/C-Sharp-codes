@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using MiniServer.Common;
+﻿using MiniServer.Common;
 
 namespace MiniServer.Headers
 {
-    class HttpHeader : CoreValidator
+    public class HttpHeader
     {
         public HttpHeader(string key, string value)
         {
